@@ -63,7 +63,7 @@ ter.
   </div>
   <div class="Mig3">
   <a href="https://eksamentrapholt.dk/?fbclid=IwAR0r9bq_zVS-_zHHXAbboFrNj9B39yigPDyzzOcwe4smjq2lgfWMcuPvsEg">
-    <img class="Christian" src="../assets/hjemmeside.png" alt="Billede 1">
+    <img class="Christian" src="../assets/hjemmeside 2.png" alt="Billede 1">
   </a>
 
   <h1>
